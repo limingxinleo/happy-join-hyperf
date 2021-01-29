@@ -1,8 +1,8 @@
 # 组件嗨(Hyperf)化计划
 
-[![Latest Stable Version](https://poser.pugx.org/limingxinleo/happy-join-hyperf/v)](//packagist.org/packages/limingxinleo/happy-join-hyperf) 
-[![Total Downloads](https://poser.pugx.org/limingxinleo/happy-join-hyperf/downloads)](//packagist.org/packages/limingxinleo/happy-join-hyperf) 
-[![Latest Unstable Version](https://poser.pugx.org/limingxinleo/happy-join-hyperf/v/unstable)](//packagist.org/packages/limingxinleo/happy-join-hyperf) 
+[![Latest Stable Version](https://poser.pugx.org/limingxinleo/happy-join-hyperf/v)](//packagist.org/packages/limingxinleo/happy-join-hyperf)
+[![Total Downloads](https://poser.pugx.org/limingxinleo/happy-join-hyperf/downloads)](//packagist.org/packages/limingxinleo/happy-join-hyperf)
+[![Latest Unstable Version](https://poser.pugx.org/limingxinleo/happy-join-hyperf/v/unstable)](//packagist.org/packages/limingxinleo/happy-join-hyperf)
 [![Dependents](https://poser.pugx.org/limingxinleo/happy-join-hyperf/dependents)](//packagist.org/packages/limingxinleo/happy-join-hyperf)
 [![License](https://poser.pugx.org/limingxinleo/happy-join-hyperf/license)](//packagist.org/packages/limingxinleo/happy-join-hyperf)
 
@@ -13,7 +13,3 @@
 ```shell
 composer require limingxinleo/happy-join-hyperf --dev
 ```
-
-## 已加入的组件
-
-
