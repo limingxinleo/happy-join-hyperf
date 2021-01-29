@@ -5,7 +5,7 @@
 需要嗨化的组件，可以使用以下命令加入此计划
 
 ```shell
-composer require happy/hyperf --dev
+composer require limingxinleo/happy-join-hyperf --dev
 ```
 
 ## 已加入的组件
