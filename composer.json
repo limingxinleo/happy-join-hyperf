@@ -1,5 +1,5 @@
 {
-    "name": "happy/hyperf",
+    "name": "hyperf/happy-join",
     "description": "组件嗨化计划",
     "type": "library",
     "license": "MIT",
