@@ -1,0 +1,12 @@
+{
+    "name": "happy/hyperf",
+    "description": "组件嗨化计划",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "李铭昕",
+            "email": "l@hyperf.io"
+        }
+    ]
+}
