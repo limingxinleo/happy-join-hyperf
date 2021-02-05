@@ -18,3 +18,4 @@ composer require limingxinleo/happy-join-hyperf --dev
 ## Laravel
 
 - [limingxinleo/i-cache](https://github.com/limingxinleo/i-cache) 缓存系统
+- [limingxinleo/i-encryption](https://github.com/limingxinleo/i-encryption) 加密解密
