@@ -19,3 +19,4 @@ composer require limingxinleo/happy-join-hyperf --dev
 
 - [limingxinleo/i-cache](https://github.com/limingxinleo/i-cache) 缓存系统
 - [limingxinleo/i-encryption](https://github.com/limingxinleo/i-encryption) 加密解密
+- [limingxinleo/hyperf-facade](https://github.com/limingxinleo/hyperf-facade) 门面（静态代理）
