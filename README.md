@@ -20,3 +20,7 @@ composer require limingxinleo/happy-join-hyperf --dev
 - [limingxinleo/i-cache](https://github.com/limingxinleo/i-cache) 缓存系统
 - [limingxinleo/i-encryption](https://github.com/limingxinleo/i-encryption) 加密解密
 - [limingxinleo/hyperf-facade](https://github.com/limingxinleo/hyperf-facade) 门面（静态代理）
+
+## Demo for Hyperf
+
+- [bing-img-downloader](https://github.com/Dracovish/bing-img-downloader) 必应图片下载器
